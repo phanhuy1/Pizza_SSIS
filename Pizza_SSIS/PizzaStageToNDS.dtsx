@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
-  DTS:CreationDate="12/20/2023 1:18:11 PM"
+  DTS:CreationDate="12/20/2023 10:11:59 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="PHANHUY"
   DTS:CreatorName="PHANHUY\gohuy"
-  DTS:DTSID="{C7A333C1-70E5-4856-96E6-800274A872E2}"
+  DTS:DTSID="{0C97A739-6572-4430-AD83-C4ECAB624D21}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="16.0.5314.0"
   DTS:LocaleID="1033"
   DTS:ObjectName="PizzaStageToNDS"
   DTS:PackageType="5"
   DTS:VersionBuild="1"
-  DTS:VersionGUID="{EA9F10A2-A50A-4D5F-9782-E1FC6CDA9A29}">
+  DTS:VersionGUID="{C20E348E-D10F-4E67-B5DD-DD948AEDDE5D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
